@@ -1,0 +1,13 @@
+C:\lab2\ScienceSubmarineAvoidingReefs\ScienceSubmarineAvoidingReefs\bin\Debug\netcoreapp2.1\ScienceSubmarineAvoidingReefs.deps.json
+C:\lab2\ScienceSubmarineAvoidingReefs\ScienceSubmarineAvoidingReefs\bin\Debug\netcoreapp2.1\ScienceSubmarineAvoidingReefs.dll
+C:\lab2\ScienceSubmarineAvoidingReefs\ScienceSubmarineAvoidingReefs\bin\Debug\netcoreapp2.1\ScienceSubmarineAvoidingReefs.pdb
+C:\lab2\ScienceSubmarineAvoidingReefs\ScienceSubmarineAvoidingReefs\bin\Debug\netcoreapp2.1\OSMLS.dll
+C:\lab2\ScienceSubmarineAvoidingReefs\ScienceSubmarineAvoidingReefs\bin\Debug\netcoreapp2.1\OSMLSGlobalLibrary.dll
+C:\lab2\ScienceSubmarineAvoidingReefs\ScienceSubmarineAvoidingReefs\bin\Debug\netcoreapp2.1\OSMLS.pdb
+C:\lab2\ScienceSubmarineAvoidingReefs\ScienceSubmarineAvoidingReefs\bin\Debug\netcoreapp2.1\OSMLSGlobalLibrary.pdb
+C:\lab2\ScienceSubmarineAvoidingReefs\ScienceSubmarineAvoidingReefs\obj\Debug\netcoreapp2.1\ScienceSubmarineAvoidingReefs.AssemblyInfoInputs.cache
+C:\lab2\ScienceSubmarineAvoidingReefs\ScienceSubmarineAvoidingReefs\obj\Debug\netcoreapp2.1\ScienceSubmarineAvoidingReefs.AssemblyInfo.cs
+C:\lab2\ScienceSubmarineAvoidingReefs\ScienceSubmarineAvoidingReefs\obj\Debug\netcoreapp2.1\ScienceSubmarineAvoidingReefs.csproj.CopyComplete
+C:\lab2\ScienceSubmarineAvoidingReefs\ScienceSubmarineAvoidingReefs\obj\Debug\netcoreapp2.1\ScienceSubmarineAvoidingReefs.dll
+C:\lab2\ScienceSubmarineAvoidingReefs\ScienceSubmarineAvoidingReefs\obj\Debug\netcoreapp2.1\ScienceSubmarineAvoidingReefs.pdb
+C:\lab2\ScienceSubmarineAvoidingReefs\ScienceSubmarineAvoidingReefs\obj\Debug\netcoreapp2.1\ScienceSubmarineAvoidingReefs.csprojAssemblyReference.cache

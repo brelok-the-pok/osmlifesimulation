@@ -1,0 +1,25 @@
+<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>netcoreapp2.1</TargetFramework>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="NetTopologySuite" Version="2.0.0" />
+    <PackageReference Include="NetTopologySuite.Features" Version="2.0.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Reference Include="OSMLS">
+      <HintPath>..\..\osmlifesimulation\OSMLS\bin\Debug\netcoreapp2.1\OSMLS.dll</HintPath>
+    </Reference>
+    <Reference Include="OSMLSGlobalLibrary">
+      <HintPath>..\..\osmlifesimulation\OSMLS\bin\Debug\netcoreapp2.1\OSMLSGlobalLibrary.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+  <Target Name="PostBuild" AfterTargets="PostBuildEvent">
+    <Exec Command="xcopy &quot;$(TargetDir)$(TargetName).dll&quot; &quot;C:\lab2\osmlifesimulation\OSMLS\bin\Debug\netcoreapp2.1\modules&quot; /Y /I" />
+  </Target>
+
+</Project>
